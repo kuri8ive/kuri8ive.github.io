@@ -7,6 +7,6 @@ google_fonts = "family=BIZ+UDPMincho:wght@400&family=BIZ+UDPGothic:wght@400;700"
 
 # Font families
 heading_font = "BIZ UDPGothic"
-body_font = "BIZ UDPMincho"
+body_font = "BIZ UDPGothic"
 nav_font = "BIZ UDPGothic"
 mono_font = "BIZ UDPMincho"
