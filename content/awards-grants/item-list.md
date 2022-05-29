@@ -1,6 +1,0 @@
-- **[2019.12]** Overseas training financial aid (100,000JPY), [College of Information Science, School of Informatics, University of Tsukuba](https://www.coins.tsukuba.ac.jp/en/)
-- **[2019.03]** Overseas training financial aid (200,000JPY), [College of Information Science, School of Informatics, University of Tsukuba](https://www.coins.tsukuba.ac.jp/en/)
-- **[2019.03]** [Student Encouragement Award](https://www.ipsj.or.jp/event/taikai/81/index_english.html),  [The 81st National Convention of Information Processing Society of Japan](https://www.ipsj.or.jp/event/taikai/81/index_english.html)
-- **[2018.06]** [FY 18 Best Campus Award (as a member of MSP Tsukuba team)](https://twitter.com/kuri8ive/status/922087855026987010) from Microsoft Japan
-- **[2016.07]** Grant Program for Japanese Students (300,000JPY), [JGC-S Scholoarship Founndation](http://www.jgcs.or.jp/)
-- **[2016.05]** [Presentation Contest Winner](https://ascii.jp/elem/000/001/163/1163843/), the 1st CHINTAI presents INNOVATION WORLD
