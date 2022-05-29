@@ -5,15 +5,15 @@
 
 main:
   - name: 🏠 Home
-    url: '#01_about'
+    url: '#about'
     weight: 1
 
   - name: 🏢 Experience
-    url: '#2_experience'
+    url: '#experience'
     weight: 3
 
   - name: 🗞️ News
-    url: '#02_recent-news'
+    url: '#news'
     weight: 2
 
   # - name: 📝 Publications
@@ -25,7 +25,7 @@ main:
   #   weight: 4
 
   - name: 🏆 Awards & Grants
-    url: '#05_awards-and-grants'
+    url: '#awards-grants'
     weight: 5
 
   # - name: 📝 Posts
