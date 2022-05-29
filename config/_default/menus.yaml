@@ -32,8 +32,6 @@ main:
   #   url: '#08_featured'
   #   weight: 6
 
-
-
   # - name: 📂 Projects
   #   url: '#11_projects'
   #   weight: 8
