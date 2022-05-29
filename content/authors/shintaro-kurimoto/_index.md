@@ -75,7 +75,7 @@ email: ""
 
 ---
 
-Shintaro KURIMOTO is a data scientist at ad data science team, LINE Corporation.
+Shintaro KURIMOTO is a data scientist at Ad Data Science Team, LINE Corporation.
 
 
 <!-- His personality traits can be summarized as follows: -->
