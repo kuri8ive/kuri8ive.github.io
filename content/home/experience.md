@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 3
 
-title: Experience 💻
+title: Experience 🏢
 subtitle:
 
 # Date format for experience
@@ -39,14 +39,24 @@ experience:
   - title: Data Analyst Intern
     company: Mercari, Inc.
     company_url: 'https://about.mercari.com/en/'
-    # company_logo: mercari
     location: Tokyo, Japan
     date_start: '2021-08-01'
     date_end: '2021-08-31'
     description: |2-
         * Analyzed a component in the Mercari app and made a proposal for improvement.
-        * Commnets by his mentor, Shinya YAGINUMA: 
+        * Commnets by his mentor, Shinya YAGINUMA:  
         {{< tweet 1432872811563945985 >}} {{< tweet 1432874505358041088 >}}
+
+  - title: Customer Engineer Intern
+    company: Microsoft Japan
+    company_url: 'https://www.microsoft.com/ja-jp'
+    company_logo: microsoft
+    location: Tokyo, Japan
+    date_start: '2021-08-01'
+    date_end: '2021-08-31'
+    description: |2-
+        * Created a part of the paid technical material.
+        * Gave a simplified explanation of the contents of Azure Updates to non-technical staff in the company.
 
 design:
   columns: '2'
