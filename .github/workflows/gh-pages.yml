@@ -51,6 +51,9 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         with:
+          # deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}でやろうとしてずっとActions落ちてたけど、
+          # v3ではgithub_tokenが基本になったっぽい？こっちでやったらいけた…長い戦いだった…
+          # https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-runners-access-token-github_token
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           publish_branch: gh-pages # deploying branch
