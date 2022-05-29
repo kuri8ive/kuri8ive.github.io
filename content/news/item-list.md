@@ -1,0 +1,1 @@
+- **[2022.04]** Joined LINE Corporation as a data scientist.
