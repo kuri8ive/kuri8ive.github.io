@@ -15,7 +15,7 @@ organizations:
   url: https://linecorp.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A data scientist at ad data science team, LINE Corporation.
+bio: A data scientist at Ad Data Science Team, LINE Corporation.
 
 interests:
 - 📃 Online Advertising
