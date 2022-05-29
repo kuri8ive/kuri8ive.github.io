@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: LINE Corporation
     company_url: 'https://linecorp.com/'
-    company_logo: line
+    # company_logo: line
     location: Tokyo, Japan
     date_start: '2022-04-01'
     date_end: ''
@@ -45,12 +45,11 @@ experience:
     description: |2-
         * Analyzed a component in the Mercari app and made a proposal for improvement.
         * Commnets by his mentor, Shinya YAGINUMA:  
-        {{< tweet 1432872811563945985 >}} {{< tweet 1432874505358041088 >}}
+        * {{< tweet 1432872811563945985 >}} {{< tweet 1432874505358041088 >}}
 
   - title: Customer Engineer Intern
     company: Microsoft Japan
     company_url: 'https://www.microsoft.com/ja-jp'
-    company_logo: microsoft
     location: Tokyo, Japan
     date_start: '2021-08-01'
     date_end: '2021-08-31'
