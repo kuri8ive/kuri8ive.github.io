@@ -18,8 +18,9 @@ organizations:
 bio: A data scientist at Ad Data Science Team, LINE Corporation.
 
 interests:
-- 📃 Online Advertising
-- 🤖 Recommender Systems
+- Personalization
+- Recommender Systems
+- Online Advertising
 
 education:
   courses:
