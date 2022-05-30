@@ -153,7 +153,7 @@ experience:
     date_end: '2017-08-30'
     description: |2-
         * Discovered trends in user's search behavior.
-        * Comments by his mentor, Yusuke KUWABARA:
+        * Comments by his mentor, Yusuke KUWABARA:  
         "I enjoyed working with him and wanted to work more with him."
 
 design:
