@@ -8,21 +8,21 @@ main:
     url: '#about'
     weight: 1
 
-  - name: 🏢 Experience
-    url: '#experience'
-    weight: 3
-
   - name: 🗞️ News
     url: '#news'
     weight: 2
 
+  - name: 🎙️ Talks
+    url: '#talks'
+    weight: 3
+
+  - name: 🏢 Experience
+    url: '#experience'
+    weight: 4
+
   # - name: 📝 Publications
   #   url: '#03_international-publications'
   #   weight: 3
-
-  # - name: 🎙️ Talks
-  #   url: '#06_talks'
-  #   weight: 4
 
   - name: 🏆 Awards & Grants
     url: '#awards-grants'
