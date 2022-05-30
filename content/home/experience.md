@@ -84,7 +84,7 @@ experience:
     date_end: '2020-09-30'
     description: |2-
         * Proposed a cloud architecture to realize a customer's requirements, cooperating with my mentor. In addition, * Conducted a brief technical verification of the proposed architecture.
-        * Comments by his mentor, Hideo TAKAGI:
+        * Comments by his mentor, Hideo TAKAGI:  
         "[Thank you for his work! I also enjoyed working with Kurimoto-san. He shared a lot of what he saw, heard and felt, which gave me a lot of insight too😀](https://twitter.com/hidtkg/status/1311927551988699137)
         [Also, throughout working with him, I thought he has a great imagination for what customers really want to do that we can't see explicitly, and how our proposal system will be operated after it is introduced in production. I'd be happy if he joins us in the future and we can work together again!](https://twitter.com/hidtkg/status/1311927697128390656)"
 
@@ -104,7 +104,7 @@ experience:
     date_end: '2020-03-31'
     description: |2-
         * Made a research presentation at [The 34th Annual Conference of the Japanese Society for Artificial Intelligence](https://www.ai-gakkai.or.jp/jsai2020/en/) on [our research that is on issue analysis using people's news browsing behavior in an election]((https://confit.atlas.jp/guide/event/jsai2020/subject/1L5-GS-5-02/detail)).
-        * Comments by his mentor, Yoshifumi SEKI:
+        * Comments by his mentor, Yoshifumi SEKI:  
         "[He is wonderful at having clear motivation for research and being able to properly verbalize it. We smoothly brushed up our idea and made advances in our research because he always brings his own opinions in our discussion.](https://twitter.com/YoshifumiSeki/status/1245535084523872256)
         [I gave two pieces of advice, one of which was "don't jump to simple conclusions (hypotheses) too soon. By testing the hypothesis from various angles, coming up with your own counter-arguments, squashing those counter-arguments, and testing them in-depth, the hypothesis becomes better. If he acquires this kind of research process, his research ability would be more excellent.](https://twitter.com/YoshifumiSeki/status/1245536364323426305)
         [Going back to motivation can also refine the task itself and make the research more valuable by updating the motivation itself. If these processes are run by individuals even in part, it would be easier to improve the quality of research, which leads to more fruitful discussions with other researchers.](https://twitter.com/YoshifumiSeki/status/1245537553614159872)"
@@ -118,7 +118,7 @@ experience:
     description: |2-
         * Developed a data pipeline for key phrase extraction task.
         * Contributed to a data pipeline OSS, [gokart](https://github.com/m3dev/gokart)
-        * Comments by his mentor, Masahiro NISHIBA:
+        * Comments by his mentor, Masahiro NISHIBA:  
         "[I think companies would be welcome if he works with them because he is excellent.](https://twitter.com/m_nishiba/status/1116127666065723397)"
 
   - title: Research and Development Engneer Intern
@@ -130,7 +130,7 @@ experience:
     description: |2-
         * Developed an idea and implemented it for the recommender system of AbemaTV, popular online TV in Japan. 
         * Surveyed research papers and summarized them for colleagues.
-        * Comments by his mentor, Yo NAITO:
+        * Comments by his mentor, Yo NAITO:  
         "He played an active role in task setting and had enough coding skills."
 
   - title: Frontend Engneer Intern
@@ -142,7 +142,7 @@ experience:
     description: |2-
         * Implemented new functions aimed at solving the problems of existing systems for Yahoo! auction, the biggest auction service in Japan.  
         * Completed from finding problems to interviewing users.
-        * Comments by his mentor, Kaoru KENJO:
+        * Comments by his mentor, Kaoru KENJO:  
         "He worked fast and voluntarily supported other interns. I want him to join our company."
 
   - title: Data Analyst Intern
