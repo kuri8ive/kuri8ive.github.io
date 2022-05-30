@@ -45,7 +45,9 @@ experience:
     description: |2-
         * Analyzed a component in the Mercari app and made a proposal for improvement.
         * Commnets by his mentor, Shinya YAGINUMA:  
-        {{< tweet 1432872811563945985 >}} {{< tweet 1432874505358041088 >}}
+        [Thank you very much for your effort at the internship!
+        Although it was only a short period of one month, you were able to keep up with the current situation quickly and finally put together a proposal for improvement of Mercari app, which I think was wonderful.
+        I think he has an advantage in that he can come up with proposals inspired by the latest research papers.](https://twitter.com/yaginuuun/status/1432872811563945985)
 
   - title: Customer Engineer Intern
     company: Microsoft Japan
