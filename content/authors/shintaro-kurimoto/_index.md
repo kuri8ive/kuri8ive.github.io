@@ -15,7 +15,7 @@ organizations:
   url: https://linecorp.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: A data scientist at Ad Data Science Team, LINE Corporation.
+bio: A data scientist at Ad Data Science Team, LINE Corporation. I have been working on personalizing ad layouts and investigating the impact of ad quality on the content from which they are placed, as well as the relationship between ad content and the content from which they are placed to determine CTR.
 
 interests:
 - Personalization
