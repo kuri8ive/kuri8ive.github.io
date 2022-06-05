@@ -24,8 +24,8 @@ main:
   #   url: '#03_international-publications'
   #   weight: 3
 
-  - name: 📜 Certificates
-    url: '#certificates'
+  - name: 📜 Accomplishments
+    url: '#accomplishments'
     weight: 5
 
   - name: 🏆 Awards & Grants
