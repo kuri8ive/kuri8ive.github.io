@@ -24,13 +24,13 @@ main:
   #   url: '#03_international-publications'
   #   weight: 3
 
-  - name: 🏆 Awards & Grants
-    url: '#awards-grants'
-    weight: 6
-
   - name: 📜 Certificates
     url: '#certificates'
     weight: 5
+
+  - name: 🏆 Awards & Grants
+    url: '#awards-grants'
+    weight: 6
 
   # - name: 📝 Posts
   #   url: '#08_featured'
