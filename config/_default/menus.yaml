@@ -26,6 +26,10 @@ main:
 
   - name: 🏆 Awards & Grants
     url: '#awards-grants'
+    weight: 6
+
+  - name: 📜 Certificates
+    url: '#certificates'
     weight: 5
 
   # - name: 📝 Posts
