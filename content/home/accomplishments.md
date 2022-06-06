@@ -105,6 +105,22 @@ item:
   organization_url: https://www.credly.com/organizations/microsoft-certification/badges
   title: Azure Data Fundamentals
   url: https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-09-12"
+  description: ""
+  organization: ETS
+  organization_url: https://www.ets.org/toefl/test-takers/ibt/about
+  title: TOEFL iBT 84
+  url: https://drive.google.com/file/d/1baN4W9BUhX91yD1VnAb6oDOrEkb_Cvjx/view?usp=sharing
+- certificate_url: ""
+  date_end: ""
+  date_start: "2019-05-26"
+  description: ""
+  organization: ETS
+  organization_url: https://www.iibc-global.org/english.html
+  title: TOEIC 945
+  url: https://drive.google.com/file/d/1G1p0KicLIsQn04Nxf_oNKSYixfepfgbA/view?usp=sharing
 
 design:
   columns: '2' 
