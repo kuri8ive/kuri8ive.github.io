@@ -33,7 +33,7 @@ item:
   organization_url: https://www.ipa.go.jp/index-e.html
   title: Information Security Management Examination
   url: https://www.jitec.ipa.go.jp/sg/
-- certificate_url: ""
+- certificate_url: "https://www.cloudskillsboost.google/public_profiles/ba73e807-1a0d-4e63-92c8-ebca1b9b75c8/badges/2165594"
   date_end: ""
   date_start: "2022-06-05"
   description: ""
