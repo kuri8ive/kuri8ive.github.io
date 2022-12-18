@@ -1,2 +1,2 @@
-- **[2022.11]** [An article about an interview with my colleagues](https://twitter.com/LINE_DEV/status/1594541065448849409) has been published.
+- **[2022.11]** [An article about an interview with my colleagues](https://engineering.linecorp.com/ja/interview/data-science-new-graduates/) has been published.
 - **[2022.04]** Joined LINE Corporation as a data scientist.
